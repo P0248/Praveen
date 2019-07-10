@@ -1,0 +1,9 @@
+Test Case ID	Test Scenario	Description	actionKeyword
+LogIn_01	TS_01	Open Browser	launchBrowser
+LogIn_01	TS_02	Navigate	navigate
+LogIn_01	TS_03	click on signin button in Hello Signin	click_Signin
+LogIn_01	TS_04	Enter email or mobile phone number	input_UserName
+LogIn_01	TS_05	Enter password	input_Password
+LogIn_01	TS_06	click on login button	click_Login
+LogIn_01	TS_07	Wait for some time	wait
+LogIn_01	TS_08	click on Sign out	click_SignOut
